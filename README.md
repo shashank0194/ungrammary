@@ -27,7 +27,24 @@ Project Link - [Project Repo](https://github.com/pankajganjale/cryptoverse.git)
 
 ## Large Screens:-
 
+![Large Screens](https://raw.githubusercontent.com/shashank0194/ungrammary/main/src/components/images/sc1.png)
 
+## Large Screens with phone number error:-
+
+![Large Screens with phone number error](https://raw.githubusercontent.com/shashank0194/ungrammary/main/src/components/images/sc2.png)
+
+
+## Large Screens with name error:-
+
+![Large Screens with phone name error](https://raw.githubusercontent.com/shashank0194/ungrammary/main/src/components/images/sc3.png)
+
+## Medium Screens:-
+
+![Medium Screens](https://raw.githubusercontent.com/shashank0194/ungrammary/main/src/components/images/sc4.png)
+
+## Small Screens:-
+
+![Small Screens](https://raw.githubusercontent.com/shashank0194/ungrammary/main/src/components/images/sc5.png)
 
 
 
