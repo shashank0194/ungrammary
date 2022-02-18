@@ -4,12 +4,12 @@
 
 ## To start our Project on your Machine:-
 1. Create a new folder.
-2. Run following command in terminal:- ```git clone https://github.com/pankajganjale/cryptoverse.git```
+2. Run following command in terminal:- ```git clone https://github.com/shashank0194/ungrammary.git```
 3. Run following command in terminal:- ```cd ungrammary```
 4. Run ```npm start```
 
 
-## Go Live - [Click Here](https://cryptoappreact.netlify.app/)
+## Go Live - [Click Here](https://ungrammary0194.netlify.app/)
 
 # Technologies that we used :-
 1. React
@@ -20,7 +20,7 @@
 
 Shashank Singh - [Linkedin](https://www.linkedin.com/in/shashanks0194)
 
-Project Link - [Project Repo](https://github.com/pankajganjale/cryptoverse.git)
+Project Link - [Project Repo](https://github.com/shashank0194/ungrammary)
 
 
 # Some Screenshots:-
