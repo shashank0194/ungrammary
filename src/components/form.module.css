@@ -1,34 +1,12 @@
-.main_cont{
-    width: 100%;
-    height: 100%;
-}
-.inner_cont{
-    padding-left: 8%;
-    padding-right: 7%;
-}
 #img{
   width: 90%;
-  height: 80%;
+  height: auto;
 } 
 
-#rightPortion{
-  position:absolute;
-  right:40px;
-  @media all and (max-width:968px){   
-   left:0;
-   padding-left:20px
-   } 
-}
-
 #ungrammary_font{
-    font-size: 50px;
     color: #011E40;
-}
-#nav_tabs{
-    font-size: 24px;
-    font-weight: 500;
-    color: #011E40;
-    margin-top: 1rem;
+    font-weight: 600;
+    margin-top: -0.5rem;
 }
 
 .span{
@@ -40,9 +18,21 @@
     border-block-color:#0b6ddd ;
     color: #0b6ddd;
     font-weight: 500;
-    font-size: 24px;
-    margin-top: 1rem;
+    margin-top: 0.5rem;
 }
 #dropdown{
     margin-top: .4rem;
+}
+
+
+@media (min-width: 375px) and (max-width: 767px) {
+  #imgClass{
+    margin-left: 7%;
+  }
+}
+
+@media (min-width: 200px) and (max-width: 375px) {
+    #imgClass{
+      margin-left: 5%;
+    }
 }
